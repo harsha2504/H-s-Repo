@@ -1,1 +1,1 @@
-A Simple and easy to implement Notes Project Using Html & Css.
+A simple and easy notes project using Html and Css.
